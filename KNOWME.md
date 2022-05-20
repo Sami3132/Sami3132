@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sami3132
 - 👀 I’m interested in website + app development
-- 🌱 I’m currently learning javascript, python and 
+- 🌱 I’m currently learning javascript, python and js libraries
 - 💞️ I’m looking to collaborate on everything
 - 📫 You can reach me through samiguish@gmail.com or by the username @samuel112233 on Telegram.
 
